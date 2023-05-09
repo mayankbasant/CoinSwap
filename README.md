@@ -2,6 +2,13 @@
 
 Welcome to your new dbank project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
+-	Product: It is basically a money market protocol based DApp which is inspired from Compound Protocol.
+-	Compound is an algorithmic, autonomous interest rate protocol built for developers to unlock a universe of open financial applications.
+-	In this people can borrow a token and bet that token, the token price will have gone down by the time they repay their loan according to their compound interest.
+-	HTML5, CSS3, JavaScript, React.js, jQuery, Motoko, Internet Computer, APIs, Web3.
+
+
+
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
 To learn more before you start working with dbank, see the following documentation available online:
