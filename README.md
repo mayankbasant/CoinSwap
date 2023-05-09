@@ -11,6 +11,7 @@ Welcome to your new dbank project and to the internet computer development commu
 coinswap looks like- ![dbank](https://github.com/mayankbasant/CoinSwap/assets/71563979/64668cb2-aabf-41e8-aee1-465526740bdc)
 
 
+
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
 To learn more before you start working with dbank, see the following documentation available online:
